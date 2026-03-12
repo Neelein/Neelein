@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neelein Shakya</h1>
 - 📫 How to reach me **shakya1221@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
   <img src="https://camo.githubusercontent.com/d346919ca2926c7fdd037b3f4162f3f6752f37b3810b7fb3d84bd261a3576af7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966">
 </p>
 
